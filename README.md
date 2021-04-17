@@ -1,3 +1,4 @@
+
 # GraphQL
 
 Apollo GraphQL API 
@@ -12,7 +13,7 @@ yarn start
 ```
 
 ## Example Query in Playground
-
+http://localhost:7007/graphql
 ```bash
 query {
   users {
